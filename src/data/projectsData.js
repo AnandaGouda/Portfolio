@@ -33,7 +33,7 @@ export const projectsData = [
         projectDesc: 'Learn it is a Education web site, you can learn any course on it.',
         tags: ['CSS', 'HTML', 'JavaSript', "Express", 'MongoDB', 'React'],
         code: 'https://github.com/abhishek-hero/Project_Edutech',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://learnit-seven.vercel.app/',
         image: three
     },
     {
